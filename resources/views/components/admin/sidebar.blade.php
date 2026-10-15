@@ -47,6 +47,14 @@
     <path
         d="M15 15c-1.13 0-2.17.3-3 .8 1.83.78 3 2.04 3 3.2h5v-1c0-1.66-2.24-3-5-3z">
     </path>' />
+
+            <x-admin.menu-item href="/admin/classroom" label="Classroom"
+                icon='
+    <path
+        d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z">
+    </path>
+    <path d="M9 22V12h6v10">
+    </path>' />
         </ul>
         </li>
         </ul>
