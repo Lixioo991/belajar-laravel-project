@@ -7,7 +7,7 @@
 
     @vite('resources/css/app.css')
 
-    <title>Layout</title>
+    <title>Dashboard</title>
 </head>
 
 <body class="bg-gray-900">
